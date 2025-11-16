@@ -1,6 +1,6 @@
-# Claude Skills
+# Claude Tools
 
-A collection of reusable Claude Code skills.
+A collection of various tools I use with Claude Code.
 
 ## github-code-reviewer
 
