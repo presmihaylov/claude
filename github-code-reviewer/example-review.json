@@ -1,0 +1,23 @@
+[
+  {
+    "path": "src/services/user.service.ts",
+    "line": 45,
+    "body": "bug: Null pointer exception if user.profile is undefined"
+  },
+  {
+    "path": "src/db/repositories/order.repository.ts",
+    "line": 123,
+    "body": "security: SQL injection via string concatenation - use parameterized query"
+  },
+  {
+    "path": "src/controllers/payment.controller.ts",
+    "line": 89,
+    "body": "bug: Error logged but not returned - caller assumes success"
+  },
+  {
+    "path": "src/services/order.service.ts",
+    "line": 234,
+    "start_line": 232,
+    "body": "performance: N+1 query - fetch all items with single query instead of loop"
+  }
+]
