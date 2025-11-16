@@ -16,4 +16,4 @@ High-signal code review skill for GitHub PRs. Reviews code with surgical precisi
 
 ### Usage
 
-See the [github-code-reviewer documentation](./github-code-reviewer/instructions.md) for installation and usage instructions.
+See the [github-code-reviewer documentation](./.claude/skills/github-code-reviewer/SKILL.md) for installation and usage instructions.
